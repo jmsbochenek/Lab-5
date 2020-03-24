@@ -8,8 +8,7 @@ table, td, tr, th{
 	height: 60px;
 }
 body{
-	background-color: gray;
-	background-image: url('image/space.jpg');
+	background-color: rgb(58, 255, 0)
 	margin: auto;
 }
 table{
